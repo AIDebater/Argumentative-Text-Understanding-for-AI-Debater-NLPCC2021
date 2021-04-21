@@ -1,8 +1,6 @@
-Argumentative-Text-Understanding-for-AI-Debater-NLPCC2021
-
-INTRODUCTION
-
-Argument and debate are fundamental capabilities of human intelligence, essential for a wide range of human activities, and common to all human societies. With an aim of developing an autonomous debating system, we make an initial step to understand argumentative text of debating in this shared task, including three tracks, namely, supporting material identification (track 1), argument pair identification from online forum (track 2) and argument pair extraction from peer review and rebuttal (track 3). 
+# Argumentative-Text-Understanding-for-AI-Debater-NLPCC2021
+## INTRODUCTION
+Argument and debate are fundamental capabilities of human intelligence, essential for a wide range of human activities, and common to all human societies. With an aim of developing an autonomous debating system, we make an initial step to understand argumentative text of debating in this shared task, including three tracks, namely, supporting material identification (**track 1**), argument pair identification from online forum (**track 2**) and argument pair extraction from peer review and rebuttal (**track 3**). 
 
 In track 1, we present the fundamental scenario of supporting material identification for a given debating topic. We then move to the understanding of dialogical argumentative text in two domains, i.e., online debating forum and scientific paper review process. 
 
