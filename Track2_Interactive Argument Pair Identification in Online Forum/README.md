@@ -75,7 +75,7 @@ Note that after each epoch, the best model is saved in `./model/`.
 
 The baseline model's performance in the training period is as shown below.
 
-![image-20210423013426804](C:\Users\johns\AppData\Roaming\Typora\typora-user-images\image-20210423013426804.png)
+![model training](model training.png)
 
 ## Evaluation and Submission
 
