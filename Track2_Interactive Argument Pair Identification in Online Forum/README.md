@@ -75,7 +75,7 @@ Note that after each epoch, the best model is saved in `./model/`.
 
 The baseline model's performance in the training period is as shown below.
 
-![model training](model training.png)
+![model training](https://github.com/AIDebater/Argumentative-Text-Understanding-for-AI-Debater-NLPCC2021/blob/main/Track2_Interactive%20Argument%20Pair%20Identification%20in%20Online%20Forum/model%20training.png)
 
 ## Evaluation and Submission
 
