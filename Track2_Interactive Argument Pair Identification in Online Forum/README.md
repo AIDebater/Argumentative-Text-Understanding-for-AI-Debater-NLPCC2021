@@ -62,8 +62,8 @@ After the training period, the project file contains:
 │   ├── train_data.txt
 │   └── valid_data.txt
 ├── model
-│   ├── BERT
-│   │   └── model.bin
+│   └── BERT
+│       └── model.bin
 ├── __init__.py
 ├── data.py
 ├── main.py
