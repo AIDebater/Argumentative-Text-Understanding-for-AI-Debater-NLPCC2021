@@ -60,8 +60,8 @@ After the training period, the project file contains:
 │   ├── train_data.txt
 │   └── valid_data.txt
 ├── model
-│   ├── BERT
-│   │   └── model.bin
+│   └── BERT
+│       └── model.bin
 ├── __init__.py
 ├── data.py
 ├── main.py
@@ -72,7 +72,7 @@ After the training period, the project file contains:
 
 Note that after each epoch, the best model is saved in `./model/`.
 
-The baseline model's final performance on the test set released for Phase 1 is about 0.65.
+The baseline model's final performance on the test set released for Phase 1 is about 0.63.
 
 ## Evaluation and Submission
 
