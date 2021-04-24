@@ -6,6 +6,6 @@ In track 1, we present the fundamental scenario of supporting material identific
 
 We provide three datasets in this task, one for each track. 
 
-For more detailed information and competition registration, please refer to http://www.fudan-disc.com/sharedtask/AIDebater21/index.html.
+For more detailed information, competition registration and **dataset downloading**, please refer to http://www.fudan-disc.com/sharedtask/AIDebater21/index.html.
 
 This event is an NLPCC 2021 task that sponsored by Fudan University and Alibaba Group. The NLPCC 2021 website is http://tcci.ccf.org.cn/conference/2021/cfpt.php.
