@@ -72,7 +72,7 @@ After the training period, the project file contains:
 
 Note that after each epoch, the best model is saved in `./model/`.
 
-The baseline model's final performance on the test set released for Phase 1 is about 0.63.
+The baseline model's final performance on the test set released for Phase 1 is about 0.6556.
 
 ## Evaluation and Submission
 
