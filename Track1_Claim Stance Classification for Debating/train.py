@@ -9,7 +9,7 @@ transformers_logger = logging.getLogger("transformers")
 transformers_logger.setLevel(logging.WARNING)
 
 # Load training data
-df = pd.read_csv('train.txt', sep='\t', header=None, quoting=csv.QUOTE_NONE)
+df = pd.read_csv('data/train.txt', sep='\t', header=None, quoting=csv.QUOTE_NONE)
 df.columns = ['text_a', 'text_b', 'labels']
 
 # Split the original train set into train and dev
