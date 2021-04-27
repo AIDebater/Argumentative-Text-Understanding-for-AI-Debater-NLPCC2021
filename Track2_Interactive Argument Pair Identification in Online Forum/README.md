@@ -27,7 +27,7 @@ Note: An instance of the dataset has already been shown in the  [official websit
 
 ### 0.2 Requirements
 
-- Python >= 3.6 and PyTorch >= 0.4.1
+- Python >= 3.6 and PyTorch >= 1.2.0
 
 - Other required packages can be found in `requirements.txt` and can be installed by:
 
