@@ -4,6 +4,9 @@ See requirement.txt or Pipfile for details
 * transformers==3.4.0
 * python=3.6
 
+## New Data Set
+Please refer to the official competition website[http://www.fudan-disc.com/sharedtask/AIDebater21/index.html] for new data set downloading.
+
 ## Usage
 - ### Training
 For example, you can use the folowing command to train the model:
